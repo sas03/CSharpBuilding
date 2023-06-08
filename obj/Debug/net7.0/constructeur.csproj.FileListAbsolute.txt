@@ -1,0 +1,15 @@
+C:\Informatique\CSharp\wildschool\constructeur\obj\Debug\net7.0\constructeur.csproj.AssemblyReference.cache
+C:\Informatique\CSharp\wildschool\constructeur\obj\Debug\net7.0\constructeur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informatique\CSharp\wildschool\constructeur\obj\Debug\net7.0\constructeur.AssemblyInfoInputs.cache
+C:\Informatique\CSharp\wildschool\constructeur\obj\Debug\net7.0\constructeur.AssemblyInfo.cs
+C:\Informatique\CSharp\wildschool\constructeur\obj\Debug\net7.0\constructeur.csproj.CoreCompileInputs.cache
+C:\Informatique\CSharp\wildschool\constructeur\bin\Debug\net7.0\constructeur.exe
+C:\Informatique\CSharp\wildschool\constructeur\bin\Debug\net7.0\constructeur.deps.json
+C:\Informatique\CSharp\wildschool\constructeur\bin\Debug\net7.0\constructeur.runtimeconfig.json
+C:\Informatique\CSharp\wildschool\constructeur\bin\Debug\net7.0\constructeur.dll
+C:\Informatique\CSharp\wildschool\constructeur\bin\Debug\net7.0\constructeur.pdb
+C:\Informatique\CSharp\wildschool\constructeur\obj\Debug\net7.0\constructeur.dll
+C:\Informatique\CSharp\wildschool\constructeur\obj\Debug\net7.0\refint\constructeur.dll
+C:\Informatique\CSharp\wildschool\constructeur\obj\Debug\net7.0\constructeur.pdb
+C:\Informatique\CSharp\wildschool\constructeur\obj\Debug\net7.0\constructeur.genruntimeconfig.cache
+C:\Informatique\CSharp\wildschool\constructeur\obj\Debug\net7.0\ref\constructeur.dll
