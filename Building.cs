@@ -1,4 +1,4 @@
-﻿namespace constructeur;
+namespace constructeur;
 class Building
 {
     public double height;
@@ -25,11 +25,19 @@ class Building
         return this.height;
     }
 
-    static void Main(string[] args)
-    {
-        Building b = new Building(4.2);
+    public static void Menu(){
+        Console.Clear();
+        Console.WriteLine("Give a size: ");
+        string keyinput = Console.ReadLine();
+        Building b = new Building(Convert.ToDouble(keyinput));
         Console.WriteLine("Floor max size: " + b.GetFloorMaxSize());
         Console.WriteLine("Number of floors: " + b.GetFloorCount());
         Console.WriteLine("Building size: " + b.GetSize());
+        Console.ReadLine();
+        Menu();
+    }
+    static void Main(string[] args)
+    { 
+        Menu();
     }
 }
