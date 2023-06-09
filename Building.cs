@@ -6,7 +6,7 @@ class Building
     
     public Building(double floorNumbers, double height){
         this.height = height;
-        this.floorNumbers = floorNumbers;
+        this.floorNumbers = Convert.ToInt32(floorNumbers);
     }
 
     public Building(double size) : this(size, size){
@@ -27,7 +27,7 @@ class Building
 
     static void Main(string[] args)
     {
-        Building b = new Building(4);
+        Building b = new Building(4.2);
         Console.WriteLine("Floor max size: " + b.GetFloorMaxSize());
         Console.WriteLine("Number of floors: " + b.GetFloorCount());
         Console.WriteLine("Building size: " + b.GetSize());
